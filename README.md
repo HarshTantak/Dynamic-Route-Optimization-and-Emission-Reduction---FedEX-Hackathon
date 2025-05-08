@@ -6,7 +6,6 @@
 **Members**: Sanya Saxena, Harsh Tantak, Lawrence Mondal  
 **Institution**: M.Sc. Statistics and Data Science, NMIMS Mumbai  
 🏆 **Selected as a Top 10 Finalist Project** at the IIT Madras FedEx Smart India Hackathon  
-🔗 [GitHub Repository](https://github.com/HarshTantak/Dynamic-Route-Optimization-and-Emission-Reduction---FedEX-Hackathon)
 
 ---
 
